@@ -92,7 +92,7 @@ Stylelint: npx stylelint "\*_/_.{css,scss}"
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Desktop_version]**
+- [ ] **[Interactive js page]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
